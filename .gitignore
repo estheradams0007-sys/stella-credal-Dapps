@@ -26,3 +26,9 @@ fix_budget.sh
 fix_vault.sh
 fix_vault.py
 
+
+# Frontend
+node_modules/
+dist/
+.pnpm-debug.log*
+*.tsbuildinfo

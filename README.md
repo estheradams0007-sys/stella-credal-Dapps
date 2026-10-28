@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>accensa-contracts</h1>
+  <h1>stella-credal-Dapps</h1>
   <p><strong>Verifiable receipts and policy-bounded refunds for x402 payments on Stellar</strong></p>
   <p>
     <img src="https://img.shields.io/github/actions/workflow/status/accensa/accensa-contracts/ci.yml?branch=main" alt="CI Status" />

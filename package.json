@@ -1,0 +1,14 @@
+{
+  "name": "stella-credal-dapps",
+  "version": "0.1.0",
+  "private": true,
+  "description": "stella-credal-Dapps - Smart contracts and web frontend for x402 payments on Stellar",
+  "scripts": {
+    "build": "pnpm --filter stella-credal-dapps-frontend build",
+    "dev": "pnpm --filter stella-credal-dapps-frontend dev",
+    "preview": "pnpm --filter stella-credal-dapps-frontend preview"
+  },
+  "workspaces": [
+    "frontend"
+  ]
+}
